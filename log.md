@@ -1,30 +1,18 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+## Goals
+1. Practice TDD using [AdventOfCode](https://adventofcode.com)
+2. Practice MWWM
+3. Practice Unity
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+## Log
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+## TDD (AdventOfCode)
+### Day 00: 2018-12-30, Sun
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Today's Progress**: Refactored some poorly written code to allow less granular testing, refactoring.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I've written some poor code, now it's difficult write something more functional. Today's progress felt slow.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Day04 Puzzle02](https://github.com/SparrowBrain/adventofcode)
