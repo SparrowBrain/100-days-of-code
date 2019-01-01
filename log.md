@@ -26,6 +26,15 @@
 **Links to work**
 [Day04 Puzzle02](https://github.com/SparrowBrain/adventofcode)
 
+### Day 02: 2019-01-01, Tue
+
+**Today's Progress**: Solved Day05 Puzzle01. Started working on Puzzle02.
+
+**Thoughts**: While working on 01, had a hunch that some refactoring might be needed (extracting polymer units into an actual class, which would help with filtering, etc.). Not following a hunch proved to be ok, since 01 was easy to solve. 02 threw a wrench into the wheels - I now see, that my previous idea of passing input reader everywhere while is quite easy for writing tests, doesn't allow for code flexibility when new requirements arrive (I cannot reuse code as easily as I wish). Need to find some happy middle ground between abstraction and configuration.
+
+**Links to work**
+[Day05 Puzzle01](https://github.com/SparrowBrain/adventofcode)
+
 ## Template
 ### Day 00: 2019-01-01, Mon
 
