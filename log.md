@@ -35,6 +35,15 @@
 **Links to work**
 [Day05 Puzzle01](https://github.com/SparrowBrain/adventofcode)
 
+### Day 03: 2019-01-02, Wed
+
+**Today's Progress**: Added Unit type for polymer units, solved the 0502 puzzle.
+
+**Thoughts**: Adding the new type was not to difficult. Changing tests wasn't that painful. In some way it makes sense to delay such work until it is needed. Then again, maybe my unit tests are no longer real unit tests, since they run Unit factory method.
+
+**Links to work**
+[Day05 Puzzle02](https://github.com/SparrowBrain/adventofcode)
+
 ## Template
 ### Day 00: 2019-01-01, Mon
 
