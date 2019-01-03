@@ -44,6 +44,15 @@
 **Links to work**
 [Day05 Puzzle02](https://github.com/SparrowBrain/adventofcode)
 
+### Day 04: 2019-01-03, Thur
+
+**Today's Progress**: Started on the 0601 puzzle. Haven't done much.
+
+**Thoughts**: I think I'm leaning towards simple parsing within unit tests.
+
+**Links to work**
+[Day06 Puzzle01](https://github.com/SparrowBrain/adventofcode)
+
 ## Template
 ### Day 00: 2019-01-01, Mon
 
