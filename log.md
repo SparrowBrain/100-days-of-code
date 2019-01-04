@@ -53,6 +53,15 @@
 **Links to work**
 [Day06 Puzzle01](https://github.com/SparrowBrain/adventofcode)
 
+### Day 05: 2019-01-04, Fri
+
+**Today's Progress**: 0601 field generation done. Next is the filtering out infinite fields.
+
+**Thoughts**: Programming while underslept is rather challenging. Still, some goo progress and some spaghetti. Might refactor later.
+
+**Links to work**
+[Day06 Puzzle01](https://github.com/SparrowBrain/adventofcode)
+
 ## Template
 ### Day 00: 2019-01-01, Mon
 
