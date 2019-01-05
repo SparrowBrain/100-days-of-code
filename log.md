@@ -62,6 +62,15 @@
 **Links to work**
 [Day06 Puzzle01](https://github.com/SparrowBrain/adventofcode)
 
+### Day 06: 2019-01-05, Sat
+
+**Today's Progress**: 0601 Done.
+
+**Thoughts**: Had some algorythm issues that my tests didn't catch before the very last task. I feel like adding a bit more abstraction could have helped with this.
+
+**Links to work**
+[Day06 Puzzle01](https://github.com/SparrowBrain/adventofcode)
+
 ## Template
 ### Day 00: 2019-01-01, Mon
 
