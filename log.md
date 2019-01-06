@@ -71,6 +71,15 @@
 **Links to work**
 [Day06 Puzzle01](https://github.com/SparrowBrain/adventofcode)
 
+### Day 07: 2019-01-06, Sun
+
+**Today's Progress**: 0602 Done.
+
+**Thoughts**: Really suffered from not having a 'field' abstraction. Advent of Code is getting kind of boring. Searching for a good project to switch to.
+
+**Links to work**
+[Day06 Puzzle02](https://github.com/SparrowBrain/adventofcode)
+
 ## Template
 ### Day 00: 2019-01-01, Mon
 
