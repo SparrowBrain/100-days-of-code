@@ -80,6 +80,15 @@
 **Links to work**
 [Day06 Puzzle02](https://github.com/SparrowBrain/adventofcode)
 
+### Day 08: 2019-01-07, Mon
+
+**Today's Progress**: 0701 Done.
+
+**Thoughts**: Todays one was easy. Really clear abstractions, known problem to solve. Unit tests aren't clean, but were easy to write.
+
+**Links to work**
+[Day07 Puzzle01](https://github.com/SparrowBrain/adventofcode)
+
 ## Template
 ### Day 00: 2019-01-01, Mon
 
