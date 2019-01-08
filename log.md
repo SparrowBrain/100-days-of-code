@@ -89,13 +89,11 @@
 **Links to work**
 [Day07 Puzzle01](https://github.com/SparrowBrain/adventofcode)
 
-## Template
-### Day 00: 2019-01-01, Mon
+### Day 09: 2019-01-08, Tue
 
-**Today's Progress**: xxx
+**Today's Progress**: 0702 Partially done.
 
-**Thoughts**: xxx
+**Thoughts**: Trying to cut a corner ended up in a spaghetti mess code, that I don't know if works. Unit Tests say it doesn't. TDD is good, after all..
 
 **Links to work**
-xxx
-
+[Day07 Puzzle02](https://github.com/SparrowBrain/adventofcode)
