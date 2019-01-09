@@ -97,3 +97,12 @@
 
 **Links to work**
 [Day07 Puzzle02](https://github.com/SparrowBrain/adventofcode)
+
+### Day 10: 2019-01-09, Wed
+
+**Today's Progress**: 0702 done.
+
+**Thoughts**: Adding some abstractions made my life easy. Good tests work.
+
+**Links to work**
+[Day07 Puzzle02](https://github.com/SparrowBrain/adventofcode)
