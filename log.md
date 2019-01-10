@@ -106,3 +106,12 @@
 
 **Links to work**
 [Day07 Puzzle02](https://github.com/SparrowBrain/adventofcode)
+
+### Day 11: 2019-01-10, Thur
+
+**Today's Progress**: I've been yet again captured by an idea to make an animated desktop/lock wallpaper. So instead of doing advent did research on this. After long search online found a prototype that shows promise.
+
+**Thoughts**: Working on something that has grabbed my attention is exhilirating. Want to pursue this idea further.
+
+**Links to work**
+Nothing to show for, really.
