@@ -115,3 +115,12 @@
 
 **Links to work**
 Nothing to show for, really.
+
+### Day 11: 2019-01-11, Fri
+
+**Today's Progress**: Started adding tests for player. Took some time setting things up.
+
+**Thoughts**: Have a ton of ideas how to customize various skins for wallpapers. Excited about that. At the same time, working on this way too late - physically hard to learn anything new. And it's a nice project that will allow writting Unit Tests, maybe even some SPecFlow stuff.
+
+**Links to work**
+https://github.com/SparrowBrain/BackgroundPlayer
