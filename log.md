@@ -124,3 +124,12 @@ Nothing to show for, really.
 
 **Links to work**
 https://github.com/SparrowBrain/BackgroundPlayer
+
+### Day 12: 2019-01-12, Sat
+
+**Today's Progress**: Somewhat finished with player. Started implementing logic for the skin delay/offset calculations.
+
+**Thoughts**: Trying to do minimal and clean unit tests is fun. It's challenging my habits. Hopefully this leads to a cleaner code, and smaller, testable units.
+
+**Links to work**
+https://github.com/SparrowBrain/BackgroundPlayer
