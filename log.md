@@ -133,3 +133,12 @@ https://github.com/SparrowBrain/BackgroundPlayer
 
 **Links to work**
 https://github.com/SparrowBrain/BackgroundPlayer
+
+### Day 13: 2019-01-13, Sun
+
+**Today's Progress**: Started working on offsets.
+
+**Thoughts**: It's taking some time. Hoping better abstractions will pop up
+
+**Links to work**
+https://github.com/SparrowBrain/BackgroundPlayer
