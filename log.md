@@ -116,7 +116,7 @@
 **Links to work**
 Nothing to show for, really.
 
-### Day 11: 2019-01-11, Fri
+### Day 12: 2019-01-11, Fri
 
 **Today's Progress**: Started adding tests for player. Took some time setting things up.
 
@@ -125,7 +125,7 @@ Nothing to show for, really.
 **Links to work**
 https://github.com/SparrowBrain/BackgroundPlayer
 
-### Day 12: 2019-01-12, Sat
+### Day 13: 2019-01-12, Sat
 
 **Today's Progress**: Somewhat finished with player. Started implementing logic for the skin delay/offset calculations.
 
@@ -134,11 +134,20 @@ https://github.com/SparrowBrain/BackgroundPlayer
 **Links to work**
 https://github.com/SparrowBrain/BackgroundPlayer
 
-### Day 13: 2019-01-13, Sun
+### Day 14: 2019-01-13, Sun
 
 **Today's Progress**: Started working on offsets.
 
 **Thoughts**: It's taking some time. Hoping better abstractions will pop up
+
+**Links to work**
+https://github.com/SparrowBrain/BackgroundPlayer
+
+### Day 15: 2019-01-14, Mon
+
+**Today's Progress**: Finished with month/day offsets, pushed solution to rought completion (skin loading, etc).
+
+**Thoughts**: It works!
 
 **Links to work**
 https://github.com/SparrowBrain/BackgroundPlayer
