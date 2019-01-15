@@ -151,3 +151,12 @@ https://github.com/SparrowBrain/BackgroundPlayer
 
 **Links to work**
 https://github.com/SparrowBrain/BackgroundPlayer
+
+### Day 16: 2019-01-15, Tue
+
+**Today's Progress**: Fixed a couple of issues, covered them with unit tests. Started working on integration tests.
+
+**Thoughts**: It's nice to have a working solution and start improving on various aspects of code instead of coding in the dark and hoping things will work.
+
+**Links to work**
+https://github.com/SparrowBrain/BackgroundPlayer
