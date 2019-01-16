@@ -160,3 +160,12 @@ https://github.com/SparrowBrain/BackgroundPlayer
 
 **Links to work**
 https://github.com/SparrowBrain/BackgroundPlayer
+
+### Day 17: 2019-01-16, Wed
+
+**Today's Progress**: Added setup, teardown to integration test, added dependency injection, fixed a bug with adjusted skin start time being in the future.
+
+**Thoughts**: Today was a blast. Stuff I did made the code better and it as rather easy to do.
+
+**Links to work**
+https://github.com/SparrowBrain/BackgroundPlayer
