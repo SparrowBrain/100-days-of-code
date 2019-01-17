@@ -169,3 +169,12 @@ https://github.com/SparrowBrain/BackgroundPlayer
 
 **Links to work**
 https://github.com/SparrowBrain/BackgroundPlayer
+
+### Day 18: 2019-01-17, Thur
+
+**Today's Progress**: Added a image file validator.
+
+**Thoughts**: Wow, not much done. I think last couple of days might have been slim on sleep - it's rather difficult tomake things tonight.
+
+**Links to work**
+https://github.com/SparrowBrain/BackgroundPlayer
