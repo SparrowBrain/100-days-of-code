@@ -178,3 +178,12 @@ https://github.com/SparrowBrain/BackgroundPlayer
 
 **Links to work**
 https://github.com/SparrowBrain/BackgroundPlayer
+
+### Day 19: 2019-01-18, Fri
+
+**Today's Progress**: Managed to build .NET Core 3.0 preview WPF project.
+
+**Thoughts**: Most of the time was spent reading up and figuring out what was needed to run 3.0 .NET Core. Getting ready to build some UI for my BackgroundPlayer.
+
+**Links to work**
+https://github.com/SparrowBrain/BackgroundPlayer
