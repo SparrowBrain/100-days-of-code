@@ -187,3 +187,12 @@ https://github.com/SparrowBrain/BackgroundPlayer
 
 **Links to work**
 https://github.com/SparrowBrain/BackgroundPlayer
+
+### Day 20: 2019-01-19, Sat
+
+**Today's Progress**: Added Stylet, Made Exit button work, started working on user stories for skin pool/playlists, etc.
+
+**Thoughts**: So codewise, it's not much. But I'm thinking it could also be fun to do some basic user stories, with acceptance criteria and capture the criteria as AcceptanceTests (testing viewModels probably) with SpecFlow. Right now there's a lot of ideas about features this thing could have, and I can see myself starting to work in 50 different directions without any real gain. So scoping it out sounds fun. And practicing SpecFlow.
+
+**Links to work**
+https://github.com/SparrowBrain/BackgroundPlayer
