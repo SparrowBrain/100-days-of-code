@@ -196,3 +196,12 @@ https://github.com/SparrowBrain/BackgroundPlayer
 
 **Links to work**
 https://github.com/SparrowBrain/BackgroundPlayer
+
+### Day 21: 2019-01-20, Sun
+
+**Today's Progress**: Added feature file. Started working on setting up view models.
+
+**Thoughts**: I'm a bit confused on how to apporach injecting stuff into view models right now. Also, my background player app was all async, and Stylet stuff isn't... So I'm going to look into this more.
+
+**Links to work**
+https://github.com/SparrowBrain/BackgroundPlayer
