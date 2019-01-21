@@ -205,3 +205,12 @@ https://github.com/SparrowBrain/BackgroundPlayer
 
 **Links to work**
 https://github.com/SparrowBrain/BackgroundPlayer
+
+### Day 22: 2019-01-21, Mon
+
+**Today's Progress**: Added skin name. Working on WPF.
+
+**Thoughts**: I think I need more sleep.
+
+**Links to work**
+https://github.com/SparrowBrain/BackgroundPlayer
