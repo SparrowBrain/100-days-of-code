@@ -214,3 +214,12 @@ https://github.com/SparrowBrain/BackgroundPlayer
 
 **Links to work**
 https://github.com/SparrowBrain/BackgroundPlayer
+
+### Day 23: 2019-01-22, Tue
+
+**Today's Progress**: Added basic bindings to show skin pool details.
+
+**Thoughts**: Stylet is actually more powerful than I thought - I have missed the ability to load item template from bindings in the past. Fixed Zillawatch with this.
+
+**Links to work**
+https://github.com/SparrowBrain/BackgroundPlayer
