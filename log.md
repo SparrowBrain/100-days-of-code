@@ -223,3 +223,12 @@ https://github.com/SparrowBrain/BackgroundPlayer
 
 **Links to work**
 https://github.com/SparrowBrain/BackgroundPlayer
+
+### Day 24: 2019-01-23, Wed
+
+**Today's Progress**: Finished initial skin pool view. Started working on acceptance tests.
+
+**Thoughts**: I'm not sure acceptance tests with viewModels make sense when using Stylet.I'm struggling to mimic the app functionality with just viewModels, since a lot of things happen in framework.
+
+**Links to work**
+https://github.com/SparrowBrain/BackgroundPlayer
