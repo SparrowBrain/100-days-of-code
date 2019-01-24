@@ -232,3 +232,12 @@ https://github.com/SparrowBrain/BackgroundPlayer
 
 **Links to work**
 https://github.com/SparrowBrain/BackgroundPlayer
+
+### Day 25: 2019-01-24, Thur
+
+**Today's Progress**: Written PlaylistPlayer unit tests
+
+**Thoughts**: It looks like I need to research alternative ways to write acceptance tests. At this point I've spent my time looking at code that wasn't covered in unit tests.
+
+**Links to work**
+https://github.com/SparrowBrain/BackgroundPlayer
