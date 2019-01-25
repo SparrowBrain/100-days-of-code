@@ -241,3 +241,12 @@ https://github.com/SparrowBrain/BackgroundPlayer
 
 **Links to work**
 https://github.com/SparrowBrain/BackgroundPlayer
+
+### Day 26: 2019-01-25, Fri
+
+**Today's Progress**: Added working settings button
+
+**Thoughts**: Added a button that shows the skin pool. Used Stylet's window manager to make it simple.
+
+**Links to work**
+https://github.com/SparrowBrain/BackgroundPlayer
