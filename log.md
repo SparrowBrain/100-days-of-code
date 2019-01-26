@@ -250,3 +250,12 @@ https://github.com/SparrowBrain/BackgroundPlayer
 
 **Links to work**
 https://github.com/SparrowBrain/BackgroundPlayer
+
+### Day 27: 2019-01-26, Sat
+
+**Today's Progress**: Added distinction between right/left click. Started experimenting with WhiteX testing framework
+
+**Thoughts**: I am very curious of the possibilities WhiteX and other UI automation could bring. I could also figure out how to automate something in my everyday life.
+
+**Links to work**
+https://github.com/SparrowBrain/BackgroundPlayer
