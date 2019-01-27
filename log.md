@@ -259,3 +259,12 @@ https://github.com/SparrowBrain/BackgroundPlayer
 
 **Links to work**
 https://github.com/SparrowBrain/BackgroundPlayer
+
+### Day 28: 2019-01-27, Sun
+
+**Today's Progress**: Tried to automate tray icon. Not much progress.
+
+**Thoughts**: Automatic tray icon is very finicky. Probably doable but might not be worth the effort. I'm thinking of skipping this part with launch arguments
+
+**Links to work**
+https://github.com/SparrowBrain/BackgroundPlayer
