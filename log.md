@@ -277,3 +277,12 @@ https://github.com/SparrowBrain/BackgroundPlayer
 
 **Links to work**
 https://github.com/SparrowBrain/BackgroundPlayer
+
+### Day 30: 2019-01-29, Tue
+
+**Today's Progress**: Still stuck with automation.
+
+**Thoughts**: Feeling sick. Automation is still meh.
+
+**Links to work**
+https://github.com/SparrowBrain/BackgroundPlayer
