@@ -286,3 +286,12 @@ https://github.com/SparrowBrain/BackgroundPlayer
 
 **Links to work**
 https://github.com/SparrowBrain/BackgroundPlayer
+
+### Day 31: 2019-01-30, Wed
+
+**Today's Progress**: Did some progress on playback state.
+
+**Thoughts**: Still feeling sick.
+
+**Links to work**
+https://github.com/SparrowBrain/BackgroundPlayer
